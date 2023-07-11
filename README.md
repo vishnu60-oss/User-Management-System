@@ -1,2 +1,4 @@
 # User-Management-System
 The simple web application is designed to manage user information using a combination of HTML, CSS, JavaScript, Node.js, Express, and MongoDB. The application provides users with the ability to create, edit, and delete their details, as well as update their existing information.
+With this web application, users can easily interact with the system to perform various tasks related to their personal information. They can create a new user profile by entering their details, such as name, email, and other relevant information. The application ensures the security of user data by storing it in a MongoDB database.
+The integration of HTML, CSS, and JavaScript enables the creation of an intuitive and visually appealing user interface. The frontend components work harmoniously with the backend components, powered by Node.js and Express, to deliver a seamless user experience.
